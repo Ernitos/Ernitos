@@ -18,6 +18,6 @@ My goal is to grow into a full-stack developer. I want to understand the whole s
 
 ### A Bit About Me
 
-- 🚀 Obsessed with clean, simple interfaces
-- 📖 Always learning something new
-- 🎯 Goal-driven — frontend now, full-stack next
+-  Obsessed with clean, simple interfaces
+-  Always learning something new
+-  Goal-driven — frontend now, full-stack next
