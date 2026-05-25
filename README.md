@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hey there 👋
 
-<!--
-**Ernitos/Ernitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ernest, a frontend developer based in Lithuania.
 
-Here are some ideas to get you started:
+I mostly work with JavaScript and React — building interfaces, structuring components, and making things feel right on screen. Currently diving deeper into TypeScript and picking up new libraries along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to grow into a full-stack developer. I want to understand the whole system, not just the part the user sees.
+
+---
+
+### Tools & Tech
+
+- JavaScript, React, TypeScript (learning)
+- Tailwind CSS and UI libraries
+- Git, VS Code
+
+---
+
+### A Bit About Me
+
+- 🚀 Obsessed with clean, simple interfaces
+- 📖 Always learning something new
+- 🎯 Goal-driven — frontend now, full-stack next
