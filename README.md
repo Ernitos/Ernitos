@@ -16,6 +16,13 @@ My goal is to grow into a full-stack developer. I want to understand the whole s
 
 ---
 
+### GitHub Stats
+
+![Ernest's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ernitos&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ernitos&layout=compact&theme=dark)
+
+---
+
 ### A Bit About Me
 
 -  Obsessed with clean, simple interfaces
