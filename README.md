@@ -22,5 +22,7 @@ My goal is to grow into a full-stack developer. I want to understand the whole s
 -  Always learning something new
 -  Goal-driven — frontend now, full-stack next
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ernitos&show_icons=true&theme=dark" height="150" alt="Ernest's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ernitos&layout=compact&theme=dark" height="150" alt="Top Langs" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ernitos&show_icons=true&theme=dark" height="150" alt="Ernest's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ernitos&layout=compact&theme=dark" height="150" alt="Top Langs" />
+</p>
