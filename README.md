@@ -15,7 +15,7 @@ My goal is to grow into a full-stack developer. I want to understand the whole s
 - Git, VS Code
 
 ---
-
+<img src="https://leetcode-stats-six.vercel.app/api?username=Ernitos&theme=dark" alt="LeetCode Stats" />
 ### GitHub Stats
 
 ![Ernest's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ernitos&show_icons=true&theme=dark)
