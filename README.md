@@ -18,7 +18,7 @@ My goal is to grow into a full-stack developer. I want to understand the whole s
 
 ### LeetCode Progress 
 
-![LeetCode Stats](https://leetcode-stats-github-cloud.vercel.app/api?username=ErnitosLEETCODE&theme=dark)
+![LeetCode Stats](https://leetcode-stats-github-cloud.vercel.app/api?username=Ernitos&theme=dark)
 
 ---
 
