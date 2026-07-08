@@ -24,7 +24,3 @@ My goal is to grow into a full-stack developer. I want to understand the whole s
 
 
 
-<p align="center">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Ernitos&show_icons=true&theme=tokyonight&text_color=ffffff" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ernitos&layout=compact&theme=tokyonight&text_color=ffffff" />
-</p>
